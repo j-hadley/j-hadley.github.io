@@ -1,15 +1,22 @@
-.header ul {
-	margin: auto;
+#menu {
+	padding: 0;
+	margin: 0;
+}
+
+#menu li {
+	list-style-type: none;
 }
 
 .Main-Picture img { 
 	margin: auto;
+	padding: auto;
 	text-align: center;
 }
 
 .Main-Picture p.block {
 	display: block;
 	margin: auto;
+	padding: auto;
 	text-align: center;
 	font-size: 30px;
 }
