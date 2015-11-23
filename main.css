@@ -5,11 +5,11 @@
 }
 
 .Main-Picture img {
-	background-image: center;
+	position: center;
 }
 
 .Main-Picture p {
-	padding-left: 150px;
+	position: center;
 	font-size: 50px;
 	font-style: bold;
 }
