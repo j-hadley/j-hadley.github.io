@@ -1,0 +1,22 @@
+.header li {
+	font-style: bold;
+	font-size: 18px;
+	position: center;
+}
+
+.Main-Picture img {
+	background-image: center;
+	margin-right: 0px;
+	margin-left: 0px;
+}
+
+.Main-Picture p {
+	position: center;
+	font-size: 30px;
+	font-style: bold;
+}
+
+.Me a{
+	position: center;
+	padding: auto;
+}
