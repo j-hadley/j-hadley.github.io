@@ -1,7 +1,6 @@
 .header ul {
-	font-style: bold;
 	font-size: 18px;
-	position: center;
+	margin: auto;
 }
 
 .Main-Picture img.block-img {
@@ -15,7 +14,6 @@
 	margin: auto;
 	text-align: center;
 	font-size: 30px;
-	font-style: bold;
 }
 
 .Me a{
