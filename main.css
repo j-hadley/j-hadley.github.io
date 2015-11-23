@@ -7,6 +7,16 @@
 	list-style-type: none;
 }
 
+.header #menu a, #menu a:visited { 
+2	  display:block; 
+3	  width:9em; 
+4	  border:1px solid #808; 
+5	  font-family:arial, verdana, sans-serif; 
+6	  font-size:0.8em;
+7	  text-align:center;
+8	  text-decoration:none;
+9	  } 
+
 .Main-Picture img.blcok-img { 
 	margin: auto;
 	text-align: center;
