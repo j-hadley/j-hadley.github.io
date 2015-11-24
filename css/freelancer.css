@@ -181,7 +181,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #2c3e50;
+    background: #89cff0;
 }
 
 section.success a,
@@ -190,7 +190,7 @@ section.success a:focus,
 section.success a:active,
 section.success a.active {
     outline: 0;
-    color: #89cff0;
+    color: #fff;
 }
 
 @media(max-width:767px) {
