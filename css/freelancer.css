@@ -182,10 +182,6 @@ section h2 {
 section.success {
     color: #fff;
     background: #89cff0;
-    transition-property: all;
-    transition-duration: 0.3s;
-    transition-timing-function: ease-in-out;
-    transition-delay: initial;
 }
 
 section.success a,
