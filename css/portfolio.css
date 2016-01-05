@@ -355,6 +355,11 @@ footer .footer-below {
     background-color: #233140;
 }
 
+.icons-connect {
+    width: 30px;
+    height: 25px;
+}
+
 .btn-social {
     display: inline-block;
     width: 50px;
