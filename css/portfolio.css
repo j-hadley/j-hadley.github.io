@@ -361,6 +361,24 @@ footer .footer-below {
     height: 25px;
 }
 
+.icons-fb {
+    border-radius: 50%;
+    width: 27px;
+    height: 25px;
+}
+
+.icons-link {
+    border-radius: 50%;
+    width: 30px;
+    height: 27px;
+}
+
+.icons-goog {
+    border-radius: 50%;
+    width: 34px;
+    height: 29px;
+}
+
 .btn-social {
     display: inline-block;
     width: 50px;
