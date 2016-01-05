@@ -387,6 +387,7 @@ footer .footer-below {
     border-radius: 50%;
     width: 35px;
     height: 35px;
+    padding-bottom: 3px;
 }
 
 .btn-social {
