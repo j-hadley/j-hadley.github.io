@@ -365,18 +365,20 @@ footer .footer-below {
     border-radius: 50%;
     width: 27px;
     height: 25px;
+    padding-bottom: 3px;
 }
 
 .icons-link {
     border-radius: 50%;
     width: 30px;
     height: 27px;
+    padding-bottom: 3px;
 }
 
 .icons-goog {
     border-radius: 50%;
-    width: 34px;
-    height: 29px;
+    width: 30px;
+    height: 27px;
 }
 
 .btn-social {
