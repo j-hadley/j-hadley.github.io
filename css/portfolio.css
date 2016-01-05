@@ -1,11 +1,11 @@
 /*!
- * Start Bootstrap - Freelancer Bootstrap Theme (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
 body {
     overflow-x: hidden;
+    background-attachment: fixed;
 }
 
 p {
@@ -83,6 +83,7 @@ header {
     text-align: center;
     color: #fff;
     background: #89cff0;
+    background-attachment: fixed;
 }
 
 header .container {
@@ -182,6 +183,7 @@ section h2 {
 section.success {
     color: #fff;
     background: #89cff0;
+    background-attachment: fixed;
 }
 
 section.success a,
