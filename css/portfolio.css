@@ -83,7 +83,7 @@ hr.star-primary:after {
 }
 
 header {
-    text-align: center;
+    text-align: left;
     font-weight: bold;
     font-size: 20px;
     color: #31271C;
@@ -116,8 +116,9 @@ header .intro-text .name {
 }
 
 header .intro-text .skills {
-    font-size: 1.25em;
+    font-size: 20px;
     font-weight: 300;
+    padding-right: 50px;
 }
 
 @media(min-width:768px) {
