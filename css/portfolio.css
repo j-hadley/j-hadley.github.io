@@ -87,8 +87,11 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    color: #fff;
+    font-weight: bold;
+    font-size: 25px;
+    color: #31271C;
     padding-bottom: 500px;
+
 }
 
 .banner {
