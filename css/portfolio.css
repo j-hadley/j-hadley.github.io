@@ -77,6 +77,10 @@ hr.star-primary:after {
     background-attachment: fixed;
 }
 
+.img-responsive {
+    border-radius: 50%;
+}
+
 .img-centered {
     margin: 0 auto;
 }
