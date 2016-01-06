@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #89cff0;
+    color: #574f46;
 }
 
 h1,
@@ -213,7 +213,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #89cff0;
+    background: #574f46;
 }
 
 section.success a,
@@ -296,7 +296,7 @@ section.success a.active {
     margin-top: 15px;
     border: solid 2px #fff;
     font-size: 20px;
-    color: #89cff0;
+    color: #574f46;
     transition: all .3s ease-in-out;
 }
 
@@ -306,7 +306,7 @@ section.success a.active {
 .btn-outline.active {
     border: solid 2px #fff;
     color: #31271c;
-    background: #89cff0;
+    background: #574f46;
 }
 
 .floating-label-form-group {
@@ -358,7 +358,7 @@ section.success a.active {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #89cff0;
+    color: #574f46;
 }
 
 form .row:first-child .floating-label-form-group {
