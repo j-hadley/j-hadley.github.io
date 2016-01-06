@@ -107,7 +107,7 @@ header img {
 }
 
 header .intro-text {
-    padding-top: 170px;
+    padding-top: 130px;
     padding-right: 450px;
 }
 
@@ -120,7 +120,7 @@ header .intro-text .name {
 }
 
 header .intro-text .skills {
-    font-size: 20px;
+    font-size: 19px;
     font-weight: 300;
     padding-right: 50px;
 }
