@@ -63,7 +63,6 @@ hr.star-light {
 
 hr.star-light:after {
     color: #31271C;
-    padding-right: 100px;
 }
 
 hr.star-primary {
@@ -105,6 +104,11 @@ header .container {
 header img {
     display: block;
     margin: 0 auto 20px;
+}
+
+header .intro-text {
+    padding-top: 50px;
+    padding-right: 200px;
 }
 
 header .intro-text .name {
