@@ -58,13 +58,12 @@ hr.star-primary:after {
 }
 
 hr.star-light {
-    border-color: #fff;
+    border-color: #31271C;
 }
 
 hr.star-light:after {
-    color: #fff;
-    background-color: #89cff0;
-    background-attachment: fixed;
+    color: #31271C;
+    background-color: #31271C;
 }
 
 hr.star-primary {
@@ -86,7 +85,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     font-weight: bold;
-    font-size: 25px;
+    font-size: 20px;
     color: #31271C;
     padding-bottom: 500px;
 
@@ -195,7 +194,6 @@ section h2 {
 section.success {
     color: #fff;
     background: #89cff0;
-    background-attachment: fixed;
 }
 
 section.success a,
