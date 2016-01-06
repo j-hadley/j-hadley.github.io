@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #574f46;
+    color: #31271c;
 }
 
 h1,
@@ -305,8 +305,8 @@ section.success a.active {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #574f46;
-    background: #31271c;
+    color: #31271c;
+    background: #574f46;
 }
 
 .floating-label-form-group {
