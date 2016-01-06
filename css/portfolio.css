@@ -305,8 +305,8 @@ section.success a.active {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #31271c;
-    background: #574f46;
+    color: #574f46;
+    background: #31271c;
 }
 
 .floating-label-form-group {
