@@ -92,7 +92,7 @@ header {
 }
 
 .banner {
-    background-image: url("images/door-banner.jpeg");
+    background-image: url("/images/door-banner.jpeg");
     background-attachment: fixed;
     background-size: 100% 100%;
 }
