@@ -74,10 +74,11 @@ hr.star-primary:after {
 }
 
 .img-responsive {
-    max-height: 150px;
+    max-height: 175px;
     border-radius: 50%;
-    padding top: 50px;
-    padding-left: 250px;
+    padding-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .img-centered {
