@@ -151,7 +151,7 @@ content: "\f005";
 }
 
 .inline-about {
-    display: inline-block;
+    display: inline;
 }
 
 @media(min-width:768px) {
