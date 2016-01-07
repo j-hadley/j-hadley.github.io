@@ -165,8 +165,8 @@ content: "\f005";
 
 .top-button {
     color: #fff;
-    padding-top: 20px;
-    padding-bottom: 60px;
+    padding-top: 50px;
+    padding-bottom: 40px;
 }
 
 @media(min-width:768px) {
