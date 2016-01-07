@@ -75,8 +75,9 @@ hr.star-primary:after {
 
 .img-responsive {
     max-height: 175px;
-    border-radius: 50%;
+    border-radius: 60%;
     padding-top: 20px;
+    padding-bottom: 50px;
     margin-left: auto;
     margin-right: auto;
 }
