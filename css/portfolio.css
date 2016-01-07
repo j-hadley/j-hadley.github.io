@@ -75,6 +75,8 @@ hr.star-primary:after {
 
 .img-responsive {
     border-radius: 50%;
+    padding-right: 450px;
+    padding top: 50px;
 }
 
 .img-centered {
@@ -142,6 +144,10 @@ content: "\f005";
     padding: 0 .25em;
     font-family: FontAwesome;
     font-size: 2em;
+}
+
+.about-container {
+    padding-right: 450px;
 }
 
 @media(min-width:768px) {
