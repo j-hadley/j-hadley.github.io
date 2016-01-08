@@ -206,6 +206,7 @@ content: "\f005";
         font-size: 1.5em;
         text-transform: none;
         font-weight: normal;
+        padding-bottom: 5px;
     }
 }
 
