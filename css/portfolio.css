@@ -419,8 +419,7 @@ footer .footer-below {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: auto;
-    padding-top: 10px;
+    margin-top: 15px;
 }
 
 .icons-fb {
@@ -430,8 +429,7 @@ footer .footer-below {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: auto;
-    padding-top: 10px;
+    margin-top: 15px;
 }
 
 .icons-git {
@@ -441,8 +439,7 @@ footer .footer-below {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: auto;
-    padding-top: 10px;
+    margin-top: 15px;
 }
 
 .icons-link {
@@ -452,8 +449,7 @@ footer .footer-below {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: auto;
-    padding-top: 10px;
+    margin-top: 15px;
 }
 
 .icons-goog {
@@ -463,8 +459,6 @@ footer .footer-below {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: auto;
-    padding-top: 10px;
 }
 
 .btn-social {
