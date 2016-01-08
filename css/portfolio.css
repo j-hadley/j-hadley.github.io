@@ -96,7 +96,7 @@ header {
 }
 
 .banner {
-    background-image: url("/images/door-banner.jpeg");
+    background-image: url("/images/door-banner.svg");
     background-attachment: fixed;
     background-size: 100% 100%;
 }
@@ -158,7 +158,7 @@ content: "\f005";
 }
 
 .port-background {
-    background-image: url("/images/open-door.jpeg");
+    background-image: url("/images/open-door.svg");
     background-attachment: fixed;
     background-size: 100% 100%;
 }
