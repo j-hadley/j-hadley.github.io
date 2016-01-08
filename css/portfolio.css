@@ -192,6 +192,7 @@ content: "\f005";
         font-size: 2em;
         text-transform: none;
         font-weight: normal;
+        padding-bottom: 5px;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
