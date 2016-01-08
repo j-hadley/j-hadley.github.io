@@ -416,34 +416,35 @@ footer .footer-below {
     border-radius: 50%;
     width: 35px;
     height: 35px;
+    display: relative;
 }
 
 .icons-fb {
     border-radius: 50%;
     width: 35px;
     height: 35px;
-    padding-bottom: 3px;
+    display: relative;
 }
 
 .icons-git {
     border-radius: 50%;
     width: 35px;
     height: 35px;
-    padding-bottom: 3px;
+    display: relative;
 }
 
 .icons-link {
     border-radius: 50%;
     width: 35px;
     height: 35px;
-    padding-bottom: 3px;
+    display: relative;
 }
 
 .icons-goog {
     border-radius: 50%;
     width: 35px;
     height: 35px;
-    padding-bottom: 1px;
+    display: relative;
 }
 
 .btn-social {
