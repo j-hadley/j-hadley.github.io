@@ -96,9 +96,13 @@ header {
 }
 
 .banner {
-    background-image: url(/images/door-banner.jpeg);
+    background-image: url(/images/door-banner.svg);
+    width: 100%;
     background-attachment: fixed;
-    background-size: 100% 100%;
+    background-size: cover;
+    height: 0;
+    padding: 0;
+    padding-bottom: calc(100% * 3 / 4);
 }
 
 header .container {
@@ -158,9 +162,13 @@ content: "\f005";
 }
 
 .port-background {
-    background-image: url(/images/open-door.jpeg);
+    background-image: url(/images/open-door.svg);
+    width: 100%;
     background-attachment: fixed;
-    background-size: 100% 100%;
+    background-size: cover;
+    height: 0;
+    padding: 0;
+    padding-bottom: calc(100% * 3 / 4);
 }
 
 .top-button {
