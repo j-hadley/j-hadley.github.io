@@ -170,7 +170,7 @@ content: "\f005";
 .bottom-padding {
     color: #fff;
     padding-top: 50px;
-    padding-bottom: 150px;
+    padding-bottom: 110px;
 }
 
 @media(min-width:768px) {
