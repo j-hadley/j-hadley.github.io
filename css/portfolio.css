@@ -173,7 +173,7 @@ content: "\f005";
 }
 
 @media(max-width:430px) {
-    div {
+    section {
         background-color: #ceccd1;
     }
 }
