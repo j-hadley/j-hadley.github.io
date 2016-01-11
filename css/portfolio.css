@@ -87,7 +87,7 @@ hr.star-primary:after {
 }
 
 .paragraph-about {
-    padding-bottom: 435px;
+    padding-bottom: 135px;
 }
 
 header {
@@ -100,7 +100,7 @@ header {
 }
 
 .banner {
-    background-image: url(/images/door-banner.jpeg);
+    background-image: url(/images/door-banner.png);
     background-attachment: fixed;
     display: block;
     background-repeat: none;
