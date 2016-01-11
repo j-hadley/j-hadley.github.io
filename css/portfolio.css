@@ -77,13 +77,17 @@ hr.star-primary:after {
     max-height: 250px;
     border-radius: 40%;
     padding-top: 20px;
-    padding-bottom: 135px;
+    padding-bottom: 35px;
     margin-left: auto;
     margin-right: auto;
 }
 
 .img-centered {
     margin: 0 auto;
+}
+
+.paragraph-about {
+    padding-bottom: 235px;
 }
 
 header {
