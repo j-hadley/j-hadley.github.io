@@ -173,13 +173,7 @@ content: "\f005";
 }
 
 @media(max-width:430px) {
-    header .banner {
-        background-color: #ceccd1;
-    }
-}
-
-@media(max-width:430px) {
-    section .banner {
+    div .banner {
         background-color: #ceccd1;
     }
 }
