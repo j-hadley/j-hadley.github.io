@@ -172,13 +172,13 @@ content: "\f005";
     padding-bottom: 110px;
 }
 
-@media(max-width:730px) {
+@media(max-width:740px) {
     header {
         background-color: #e8e8e8;
     }
 }
 
-@media(max-width:730px) {
+@media(max-width:740px) {
     section {
         background-color: #e8e8e8;
     }
