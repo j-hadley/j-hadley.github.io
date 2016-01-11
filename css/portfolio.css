@@ -103,7 +103,7 @@ header {
     background-image: url(/images/door-banner.jpeg);
     background-attachment: fixed;
     display: block;
-    backgroundrepeat: none;
+    background-repeat: none;
     background-size: 100% 100%;
 }
 
