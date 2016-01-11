@@ -178,6 +178,12 @@ content: "\f005";
     }
 }
 
+@media(max-width:430px) {
+    section .banner {
+        background-color: #ceccd1;
+    }
+}
+
 @media(min-width:768px) {
     header .container {
         padding-top: 200px;
