@@ -557,6 +557,10 @@ footer .footer-below {
     outline: 0;
 }
 
+.a-modal {
+    background-color: #574f46;
+}
+
 .portfolio-modal .modal-content {
     padding: 100px 0;
     min-height: 100%;
