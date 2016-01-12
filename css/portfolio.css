@@ -75,6 +75,14 @@ hr.star-primary:after {
 
 .img-responsive {
     max-height: 250px;
+    padding-top: 20px;
+    padding-bottom: 35px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-responsive-profile {
+    max-height: 250px;
     border-radius: 40%;
     padding-top: 20px;
     padding-bottom: 35px;
