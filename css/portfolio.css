@@ -112,7 +112,7 @@ header {
     display: block;
     background-repeat: none;
     background-size: cover;
-    padding-top: 100px;
+    min-height: 100%
 }
 
 header .container {
