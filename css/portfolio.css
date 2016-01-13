@@ -173,7 +173,7 @@ content: "\f005";
     background-image: url(/images/open-door.svg);
     background-attachment: fixed;
     display: block;
-    background-repeat: none;
+    background-repeat: no-repeat;
     background-size: auto auto;
 }
 
