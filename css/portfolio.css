@@ -110,8 +110,8 @@ header {
     background-image: url(/images/door-banner.svg);
     background-attachment: fixed;
     display: block;
-    background-repeat: none;
-    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: auto auto;
 }
 
 header .container {
