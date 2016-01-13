@@ -112,6 +112,7 @@ header {
     display: block;
     background-repeat: none;
     background-size: cover;
+    padding-bottom: 10px;
 }
 
 header .container {
