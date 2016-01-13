@@ -111,7 +111,7 @@ header {
     background-attachment: fixed;
     display: block;
     background-repeat: none;
-    background-size: 100% 105%;
+    background-size: 75% 100%;
 }
 
 header .container {
