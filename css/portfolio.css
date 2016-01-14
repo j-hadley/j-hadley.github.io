@@ -93,7 +93,7 @@ hr.star-primary:after {
 }
 
 .paragraph-about {
-    padding-bottom: 135px;
+    padding-bottom: 235px;
 }
 
 header {
@@ -106,7 +106,7 @@ header {
 
 .banner {
     background-image: url(/images/door-banner.jpeg);
-    background-attachment: scroll;
+    background-attachment: fixed;
     display: block;
     background-repeat: no-repeat;
     background-size: 100% auto;
