@@ -92,6 +92,10 @@ hr.star-primary:after {
     margin: 0 auto;
 }
 
+.img-centered-about {
+    margin: auto auto;
+}
+
 .paragraph-about {
     padding-bottom: 235px;
 }
