@@ -98,7 +98,6 @@ div .img-centered-about {
     background-repeat: no-repeat;
     display: inline-block;
     background-position: center;
-    background-origin: content-box;
     max-width: 100%;
     height: auto;
     border-radius: 50%;
