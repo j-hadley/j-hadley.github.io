@@ -101,6 +101,8 @@ div .img-centered-about {
     background-origin: content-box;
     background-size: 150px 150px;
     border-radius: 50%;
+    padding-top: 100px;
+    padding-bottom: 185px;
 }
 
 .container-img {
