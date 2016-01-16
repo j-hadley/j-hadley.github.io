@@ -97,10 +97,10 @@ div .img-centered-about {
     float: none;
     background-attachment: scroll;
     background-repeat: no-repeat;
-    display: inline;
+    display: block;
+    margin: auto auto;
     background-size: 15% 15%;
     border-radius: 50%;
-    padding-left: 250px;
 }
 
 .paragraph-about {
