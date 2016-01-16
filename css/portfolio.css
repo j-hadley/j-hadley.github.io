@@ -97,7 +97,7 @@ div .img-centered-about {
     background-attachment: scroll;
     background-repeat: no-repeat;
     display: block;
-    box-sizing: border-box;
+    block-size: auto;
     background-position: center;
     max-width: 100%;
     height: auto;
