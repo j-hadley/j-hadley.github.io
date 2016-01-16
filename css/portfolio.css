@@ -96,7 +96,7 @@ hr.star-primary:after {
     background-image: url(/images/profile.png);
     background-repeat: no-repeat;
     display: block;
-    background-size: 50px 50px;
+    background-size: 20% 20%;
     border-radius: 50%
 }
 
