@@ -93,7 +93,11 @@ hr.star-primary:after {
 }
 
 .img-centered-about {
-    margin: auto auto;
+    background-image: url(/img/profile.png);
+    background-repeat: no-repeat;
+    display: block;
+    background-size: 50px 50px;
+    border-radius: 50%
 }
 
 .paragraph-about {
