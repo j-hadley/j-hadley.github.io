@@ -96,14 +96,14 @@ div .img-centered-about {
     background-image: url(/images/profile.png);
     background-attachment: scroll;
     background-repeat: no-repeat;
-    display: inline-block;
+    display: block;
+    box-sizing: border-box;
     background-position: center;
     max-width: 100%;
     height: auto;
     border-radius: 50%;
     padding-top: 100px;
     padding-bottom: 185px;
-    float: none;
 }
 
 .paragraph-about {
