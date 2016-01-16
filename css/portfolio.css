@@ -98,7 +98,8 @@ div .img-centered-about {
     background-repeat: no-repeat;
     display: block;
     background-position: center;
-    background-size: 100% auto;
+    background-origin: content-box;
+    background-size: cover;
     border-radius: 50%;
     padding-top: 20px;
     padding-bottom: 15px;
