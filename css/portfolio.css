@@ -97,6 +97,7 @@ div .img-centered-about {
     background-repeat: no-repeat;
     background-position: center;
     background-size: 575px 575px;
+    margin: 0;
 }
 
 .paragraph-about {
