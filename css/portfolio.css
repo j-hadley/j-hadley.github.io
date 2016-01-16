@@ -116,12 +116,32 @@ header {
     padding-bottom: 150px;
 }
 
-.banner {
+.bannr {
     background-image: url(/images/door-banner.jpeg);
     background-attachment: fixed;
     display: block;
     background-repeat: no-repeat;
-    background-size: 100% 1341px;
+    background-size: 1947px 1341px;
+}
+
+figure {
+    width: 100%;
+    margin: auto auto;
+}
+ 
+div .banner {
+    width: 100%;
+    padding-bottom: 100%; /* 1:1; */
+    position: relative;
+    background-image: url(/images/door-banner.jpeg);
+    background-attachment: fixed;
+    display: block;
+    background-repeat: no-repeat;
+}
+ 
+div .banner > div {
+    position: absolute;
+    top: 0; bottom: 0; left: 0; right: 0;
 }
 
 header .container {
