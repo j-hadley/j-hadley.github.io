@@ -96,7 +96,7 @@ div .img-centered-about {
     background-image: url(/images/profile.png);
     background-attachment: scroll;
     background-repeat: no-repeat;
-    display: block;
+    display: inline-block;
     background-position: center;
     background-origin: content-box;
     max-width: 100%;
@@ -105,11 +105,6 @@ div .img-centered-about {
     padding-top: 100px;
     padding-bottom: 185px;
     float: none;
-}
-
-.container-img {
-    width: 151px;
-    height: 151px;
 }
 
 .paragraph-about {
