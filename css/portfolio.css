@@ -98,6 +98,7 @@ div .img-centered-about {
     background-repeat: no-repeat;
     display: block;
     background-position: center;
+    background-origin: content-box;
     background-size: 150px 150px;
     border-radius: 50%;
 }
