@@ -96,7 +96,7 @@ div .img-centered-about {
     background-image: url(/images/door-banner.jpeg);
     background-attachment: scroll;
     background-repeat: no-repeat;
-    display: block;
+    display: inline;
     background-size: 20% 20%;
     border-radius: 50%
 }
