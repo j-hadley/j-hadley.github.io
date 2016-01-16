@@ -184,7 +184,7 @@ content: "\f005";
     background-attachment: fixed;
     display: block;
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: 100% auto;
 }
 
 .bottom-padding {
