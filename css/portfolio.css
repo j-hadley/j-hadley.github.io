@@ -92,7 +92,7 @@ hr.star-primary:after {
     margin: 0 auto;
 }
 
-.img-centered-about {
+div .img-centered-about {
     background-image: url(/images/door-banner.jpeg);
     background-attachment: scroll;
     background-repeat: no-repeat;
