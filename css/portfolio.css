@@ -93,7 +93,7 @@ hr.star-primary:after {
 }
 
 div .img-centered-about {
-    content: url(/img/profile.jpg);
+    content: url(/images/profile.jpg);
     background-attachment: scroll;
     background-repeat: no-repeat;
     display: block;
