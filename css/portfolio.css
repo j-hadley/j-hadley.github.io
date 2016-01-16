@@ -103,6 +103,7 @@ div .img-centered-about {
     border-radius: 50%;
     padding-top: 100px;
     padding-bottom: 185px;
+    float: none;
 }
 
 .container-img {
