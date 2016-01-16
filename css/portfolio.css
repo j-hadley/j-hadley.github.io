@@ -116,12 +116,8 @@ header {
     padding-bottom: 150px;
 }
 
-.bannr {
+.banner {
     background-image: url(/images/door-banner.jpeg);
-    background-attachment: fixed;
-    display: block;
-    background-repeat: no-repeat;
-    background-size: 1947px 1341px;
 }
 
 figure {
@@ -133,10 +129,6 @@ div .banner {
     width: 100%;
     padding-bottom: 100%; /* 1:1; */
     position: relative;
-    background-image: url(/images/door-banner.jpeg);
-    background-attachment: fixed;
-    display: block;
-    background-repeat: no-repeat;
 }
  
 div .banner > div {
