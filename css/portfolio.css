@@ -93,13 +93,12 @@ hr.star-primary:after {
 }
 
 div .img-centered-about {
-    background-image: url(/images/profile.JPG);
+    background-image: url(/images/profile.png);
     background-attachment: scroll;
     background-repeat: no-repeat;
     display: block;
     background-position: center;
-    margin: auto auto;
-    background-size: 140px 135px;
+    background-size: 100% auto;
     border-radius: 50%;
     padding-top: 20px;
     padding-bottom: 15px;
