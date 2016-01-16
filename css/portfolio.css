@@ -105,6 +105,11 @@ div .img-centered-about {
     padding-bottom: 385px;
 }
 
+.container-img {
+    width: 151px;
+    height: 151px;
+}
+
 .paragraph-about {
     padding-bottom: 235px;
 }
