@@ -97,7 +97,7 @@ div .img-centered-about {
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
-    max-width: 200px;
+    width: 200px;
     height: auto;
     border-radius: 50%;
 }
