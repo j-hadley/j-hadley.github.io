@@ -175,6 +175,7 @@ content: "\f005";
 
 .inline-about {
     display: inline;
+    padding-top: 20px;
 }
 
 .port-background {
