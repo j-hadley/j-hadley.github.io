@@ -98,8 +98,10 @@ div .img-centered-about {
     background-position: center;
     background-size: cover;
     width: 200px;
-    height: auto;
+    height: 250px;
     border-radius: 50%;
+    padding-top: 150px;
+    padding-bottom: 150px;
 }
 
 .paragraph-about {
