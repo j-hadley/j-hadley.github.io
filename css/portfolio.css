@@ -172,7 +172,7 @@ content: "\f005";
 .free {
     font-size: 1.45em;
     font-family: Impact, Haettenschweiler, 'Franklin Gothic Bold', Charcoal, 'Helvetica Inserat', 'Bitstream Vera Sans Bold', 'Arial Black', 'sans serif';
-    font-variant: normal;
+    text-transform: none;
 }
 
 .about-container {
