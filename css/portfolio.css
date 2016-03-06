@@ -169,8 +169,9 @@ content: "\f005";
     font-size: 2em;
 }
 
-h1 {
-    font-size: 2em;
+h1 .navbar-heading{
+    font-size: 1em;
+    position: relative;
 }
 
 .about-container {
