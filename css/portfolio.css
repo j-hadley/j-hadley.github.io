@@ -145,7 +145,7 @@ header .intro-text .name {
 }
 
 header .intro-text .skills {
-    font-size: 1.5em;
+    font-size: 1.25em;
     font-weight: normal;
     text-align: center;
 }
@@ -167,6 +167,10 @@ content: "\f005";
     padding: 0 .25em;
     font-family: FontAwesome;
     font-size: 2em;
+}
+
+li .free {
+    font-size: 1.75em;
 }
 
 .about-container {
