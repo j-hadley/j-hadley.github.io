@@ -169,16 +169,7 @@ content: "\f005";
     font-size: 2em;
 }
 
-h1 .navbar-heading{
-    font-size: 5em;
-    position: relative;
-    font-size: 2em;
-        text-transform: none;
-        font-weight: normal;
-        -webkit-transition: all .3s;
-        -moz-transition: all .3s;
-        transition: all .3s;
-}
+
 
 .about-container {
     padding-right: 450px;
