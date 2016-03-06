@@ -169,6 +169,10 @@ content: "\f005";
     font-size: 2em;
 }
 
+h1 {
+    font-size: 2em;
+}
+
 .about-container {
     padding-right: 450px;
 }
