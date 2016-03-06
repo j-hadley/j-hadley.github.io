@@ -172,6 +172,7 @@ content: "\f005";
 .free {
     font-size: 1.45em;
     font-family: lobster;
+    text-transform: lowercase;
 }
 
 .about-container {
