@@ -172,6 +172,7 @@ content: "\f005";
 .free {
     font-size: 1.45em;
     font-family: 'Brush Script MT', cursive;
+    font-variant: normal;
 }
 
 .about-container {
